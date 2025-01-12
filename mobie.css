@@ -1,0 +1,14 @@
+@media    (min-width: 320px) and (max-width: 480px) {
+ .y{
+    margin-top: 65px;
+    border-radius: 50%;
+    width: 100px;
+   
+ }   
+ .o{
+    background-color: rgb(226, 71, 104);
+    color: white;
+    border: none;
+    border-radius: 200px;
+ }
+}
